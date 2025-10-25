@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on Trần Phước Thịnh</title>
+        <link>http://localhost:1313/page/</link>
+        <description>Recent content in Pages on Trần Phước Thịnh</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>vi</language>
+        <lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Về Tôi</title>
+        <link>http://localhost:1313/page/about/</link>
+        <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/page/about/</guid>
+        <description>&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới Thiệu
+&lt;/h2&gt;&lt;p&gt;Xin chào! Tôi là [Trần Phước Thịnh].&lt;/p&gt;
+&lt;p&gt;Một sinh viên đam mê lập trình và phát triển phần mềm.&lt;/p&gt;
+&lt;p&gt;Blog này là nơi tôi chia sẻ kiến thức và kinh nghiệm học tập của mình về Java và JavaScript.&lt;/p&gt;
+&lt;h2 id=&#34;kỹ-năng&#34;&gt;Kỹ Năng
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Lập trình hướng đối tượng&lt;/li&gt;
+&lt;li&gt;Phát triển ứng dụng web&lt;/li&gt;
+&lt;li&gt;Lập trình mạng&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;chứng-chỉ&#34;&gt;Chứng Chỉ
+&lt;/h3&gt;&lt;div style=&#34;display: flex; justify-content: space-between; align-items: center; gap: 20px; margin: 20px 0;&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/images/certifications/JE1.png&#34; alt=&#34;Cisco Badge&#34; width=&#34;100&#34; style=&#34;flex: 1;&#34;/&gt;
+    &lt;img src=&#34;http://localhost:1313/images/certifications/JE2.png&#34; alt=&#34;Cisco Badge&#34; width=&#34;100&#34; style=&#34;flex: 1;&#34;/&gt;
+    &lt;img src=&#34;http://localhost:1313/images/certifications/NB.png&#34; alt=&#34;Cisco Badge&#34; width=&#34;100&#34; style=&#34;flex: 1;&#34;/&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;Chứng chỉ Cisco Networking Academy&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;ngôn-ngữ-lập-trình&#34;&gt;Ngôn Ngữ Lập Trình
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;li&gt;JavaScript&lt;/li&gt;
+&lt;li&gt;HTML/CSS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;frameworks--công-nghệ&#34;&gt;Frameworks &amp;amp; Công Nghệ
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Spring Boot&lt;/li&gt;
+&lt;li&gt;React.js&lt;/li&gt;
+&lt;li&gt;Node.js&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;công-cụ-phát-triển&#34;&gt;Công Cụ Phát Triển
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Git&lt;/li&gt;
+&lt;li&gt;VS Code&lt;/li&gt;
+&lt;li&gt;IntelliJ IDEA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;dự-án&#34;&gt;Dự Án
+&lt;/h2&gt;&lt;p&gt;Đây là blog cá nhân được phát triển như một phần của đồ án môn học, sử dụng:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hugo Static Site Generator&lt;/li&gt;
+&lt;li&gt;Theme Stack&lt;/li&gt;
+&lt;li&gt;GitHub Pages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;liên-hệ&#34;&gt;Liên Hệ
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Email: &lt;a class=&#34;link&#34; href=&#34;mailto:phuocthinh123456789100@gmail.com&#34; &gt;phuocthinh123456789100@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GitHub: &lt;a class=&#34;link&#34; href=&#34;https://github.com/yourusername&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Your GitHub Profile&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

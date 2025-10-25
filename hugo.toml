@@ -1,0 +1,61 @@
+baseURL = 'https://example.org/'
+theme = "hugo-theme-stack"
+title = "Trần Phước Thịnh"
+languageCode = 'vi'
+defaultContentLanguage = 'vi'
+
+# Thông tin tác giả
+[params]
+    mainSections = ["post"]
+    featuredImageField = "img"
+    rssFullContent = true
+    favicon = "img/favicon.webp"
+
+[params.article]
+    [params.article.author]
+        enabled = true
+        avatar = "/img/Stacktheme.webp"
+        name = "Trần Phước Thịnh"
+
+[params.sidebar]
+    emoji = "🎓"
+    subtitle = "Blog chia sẻ kiến thức"
+
+[params.sidebar.avatar]
+    enabled = true
+    local = false
+    src = "/img/Stacktheme.webp"
+
+[params.footer]
+    since = 2023
+
+[params.dateFormat]
+    published = "Jan 02, 2006"
+    lastUpdated = "Jan 02, 2006 15:04 MST"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Trang Chủ"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Blog"
+    url = "/post/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "about"
+    name = "Về Tôi"
+    url = "/page/about/"
+    weight = 30
+
+
+[markup]
+    [markup.highlight]
+        noClasses = false
+        lineNos = true
+    [markup.goldmark.renderer]
+        unsafe = true
