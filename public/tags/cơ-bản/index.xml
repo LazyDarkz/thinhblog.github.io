@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Cơ Bản on Trần Phước Thịnh</title>
-        <link>http://localhost:1313/tags/c%C6%A1-b%E1%BA%A3n/</link>
+        <link>https://example.org/tags/c%C6%A1-b%E1%BA%A3n/</link>
         <description>Recent content in Cơ Bản on Trần Phước Thịnh</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>vi</language>
-        <lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/c%C6%A1-b%E1%BA%A3n/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/c%C6%A1-b%E1%BA%A3n/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Giới Thiệu Về Java Cơ Bản</title>
-        <link>http://localhost:1313/post/java-co-ban/</link>
+        <link>https://example.org/post/java-co-ban/</link>
         <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/post/java-co-ban/</guid>
+        <guid>https://example.org/post/java-co-ban/</guid>
         <description>&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới Thiệu
 &lt;/h2&gt;&lt;p&gt;Java là một ngôn ngữ lập trình hướng đối tượng, có cú pháp tương tự C++. Trong bài viết này, chúng ta sẽ tìm hiểu về các khái niệm cơ bản trong Java.&lt;/p&gt;
 &lt;h2 id=&#34;cấu-trúc-chương-trình-java&#34;&gt;Cấu Trúc Chương Trình Java

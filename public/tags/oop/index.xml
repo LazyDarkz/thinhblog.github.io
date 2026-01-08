@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Oop on Trần Phước Thịnh</title>
-        <link>http://localhost:1313/tags/oop/</link>
+        <link>https://example.org/tags/oop/</link>
         <description>Recent content in Oop on Trần Phước Thịnh</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>vi</language>
-        <lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/oop/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/oop/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Lập Trình Hướng Đối Tượng Trong Java</title>
-        <link>http://localhost:1313/post/java-oop/</link>
+        <link>https://example.org/post/java-oop/</link>
         <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/post/java-oop/</guid>
+        <guid>https://example.org/post/java-oop/</guid>
         <description>&lt;h2 id=&#34;giới-thiệu-về-oop&#34;&gt;Giới thiệu về OOP
 &lt;/h2&gt;&lt;p&gt;Lập trình hướng đối tượng (Object-Oriented Programming - OOP) là một phương pháp lập trình dựa trên khái niệm về class và object. Java là một ngôn ngữ lập trình hướng đối tượng điển hình.&lt;/p&gt;
 &lt;h2 id=&#34;bốn-tính-chất-cơ-bản-của-oop&#34;&gt;Bốn tính chất cơ bản của OOP

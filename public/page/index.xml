@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Trần Phước Thịnh</title>
-        <link>http://localhost:1313/page/</link>
+        <link>https://example.org/page/</link>
         <description>Recent content in Pages on Trần Phước Thịnh</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>vi</language>
-        <lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Về Tôi</title>
-        <link>http://localhost:1313/page/about/</link>
+        <link>https://example.org/page/about/</link>
         <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/page/about/</guid>
+        <guid>https://example.org/page/about/</guid>
         <description>&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới Thiệu
 &lt;/h2&gt;&lt;p&gt;Xin chào! Tôi là [Trần Phước Thịnh].&lt;/p&gt;
 &lt;p&gt;Một sinh viên đam mê lập trình và phát triển phần mềm.&lt;/p&gt;
@@ -24,9 +24,9 @@
 &lt;/ul&gt;
 &lt;h3 id=&#34;chứng-chỉ&#34;&gt;Chứng Chỉ
 &lt;/h3&gt;&lt;div style=&#34;display: flex; justify-content: space-between; align-items: center; gap: 20px; margin: 20px 0;&#34;&gt;
-    &lt;img src=&#34;http://localhost:1313/images/certifications/JE1.png&#34; alt=&#34;Cisco Badge&#34; width=&#34;100&#34; style=&#34;flex: 1;&#34;/&gt;
-    &lt;img src=&#34;http://localhost:1313/images/certifications/JE2.png&#34; alt=&#34;Cisco Badge&#34; width=&#34;100&#34; style=&#34;flex: 1;&#34;/&gt;
-    &lt;img src=&#34;http://localhost:1313/images/certifications/NB.png&#34; alt=&#34;Cisco Badge&#34; width=&#34;100&#34; style=&#34;flex: 1;&#34;/&gt;
+    &lt;img src=&#34;https://example.org/images/certifications/JE1.png&#34; alt=&#34;Cisco Badge&#34; width=&#34;100&#34; style=&#34;flex: 1;&#34;/&gt;
+    &lt;img src=&#34;https://example.org/images/certifications/JE2.png&#34; alt=&#34;Cisco Badge&#34; width=&#34;100&#34; style=&#34;flex: 1;&#34;/&gt;
+    &lt;img src=&#34;https://example.org/images/certifications/NB.png&#34; alt=&#34;Cisco Badge&#34; width=&#34;100&#34; style=&#34;flex: 1;&#34;/&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;em&gt;Chứng chỉ Cisco Networking Academy&lt;/em&gt;&lt;/p&gt;
 &lt;h3 id=&#34;ngôn-ngữ-lập-trình&#34;&gt;Ngôn Ngữ Lập Trình
